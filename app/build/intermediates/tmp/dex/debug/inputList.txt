@@ -1,0 +1,5 @@
+C:\Users\Dragan\AndroidStudioProjects\AndroidAssignment1TipCalculator\app\build\intermediates\classes\debug
+C:\Users\Dragan\AndroidStudioProjects\AndroidAssignment1TipCalculator\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-4e53aa61b09fbfdf6af1cc98effcf55436caa33b.jar
+C:\Users\Dragan\AndroidStudioProjects\AndroidAssignment1TipCalculator\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-a9dad2e77d39026d3d96c159746dc95a5b7b55d7.jar
+C:\Users\Dragan\AndroidStudioProjects\AndroidAssignment1TipCalculator\app\build\intermediates\pre-dexed\debug\classes-d096cab45a5c867146ed0076cc5cd86b55fa33de.jar
+C:\Users\Dragan\AndroidStudioProjects\AndroidAssignment1TipCalculator\app\build\intermediates\pre-dexed\debug\classes-1a1b253dd9dbd68431fac4ee0d7e16e95fd533b0.jar
